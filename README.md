@@ -29,7 +29,8 @@
 4. It will also run _get_con_matrix(results, poses)_ to get the confusion matrix for each result and print them
 
 #### cell_q3b
-1. run this cell to plot pdf for gaussian & kde (with given sigma) for train dataset
+1. Run this cell to plot pdf for gaussian & kde (with given sigma) for train dataset
+2. Repeat with sigma=0.1 and sigma=0.5
 
 ## Question 4
 1. Read train and test data from _data/train.csv_ and _data/test.csv_ and convert them to dataframe (df_train & df_test)
