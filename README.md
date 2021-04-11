@@ -1,7 +1,7 @@
 # COMP30027 Machine Learning Assignment 1
 ## Group Members
-1. Tom Zhi Hern
-2. Peter Qian Ziyu
+1. Tom Zhi Hern 1068268
+2. Peter Qian Ziyu 1067810
  
 ## =====Naive Bayes Instructions=====
 1. Read train and test data from _data/train.csv_ and _data/test.csv_ and convert them to dataframe (df_train & df_test)
